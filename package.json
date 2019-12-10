@@ -16,7 +16,7 @@
     "cookie-parser": "^1.4.3",
     "hashids": "^1.1.1",
     "ip": "^0.3.1",
-    "jwt-simple": "^0.3.0",
+    "jwt-simple": "^0.5.3",
     "lodash": "^4.17.4",
     "memory-cache": "^0.1.6",
     "moment": "^2.18.1",
