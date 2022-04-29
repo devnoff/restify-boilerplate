@@ -9,7 +9,7 @@
   "author": "Robinson Park",
   "license": "UNLICENSED",
   "dependencies": {
-    "async": "^2.2.0",
+    "async": "^2.6.4",
     "bunyan": "^1.8.9",
     "cache-service-node-cache": "~1.1.1",
     "colors": "^1.2.1",
